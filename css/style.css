@@ -32,9 +32,6 @@ section h3 {
 /* Обратный отсчет */
 .name-frame {
     background-color: var(--color2);
-    padding: 0 10px;
-    height: 100vh;
-    width: 100%;
 }
 
 .name-frame img {
